@@ -1,0 +1,14 @@
+#vacancy-container {
+    margin-top: 15px;
+}
+
+#vacancies-table-wrapper {
+    margin-left: -15px;
+}
+.clickable {
+    cursor: pointer;
+}
+
+.editButton {
+    margin-left: 5px;
+}
